@@ -4,9 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner entra = new Scanner (System.in);
-    /* Sumar digitos de una variable 
-    * author Ncontreras
-    */
+                /* Sumar digitos de una variable 
+                 * author Nordevelop
+                */
 		int n1;
 		int decmil;
 		int umil;
